@@ -1,4 +1,4 @@
-# Optic Editor Plugin Spec
+# Optic Editor Plugin Spec v1
 Specification for Optic compatible text editor plugins
 
 ## Existing Plugins 
