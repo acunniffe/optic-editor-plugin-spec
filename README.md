@@ -1,6 +1,13 @@
 # Optic Editor Plugin Spec v1
 Specification for Optic compatible text editor plugins
 
+# tl;dr
+1. Open a websocket connection 
+2. Listen for 1 event
+3. Send 2 events from onChange callbacks. 
+4. Publish Your Work, Become an Optic Contributer 
+5. Swag Arrives in Mail
+
 ## Existing Plugins 
 * [Atom](https://github.com/opticdev/optic-atom-plugin) - maintained by the Optic Team
 
