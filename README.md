@@ -15,7 +15,7 @@ Want to get paid to build a plugin for your favorite editor? Check out our [open
 * [Atom](https://github.com/opticdev/optic-atom-plugin) - maintained by the Optic Team
 
 ## Contributing a Plugin 
-Any individual or team is invited to contribute an editor plugin to Optic's ecosystem. Optic's team will provide support during the development process and can be available to help anytime. If you want your plugin to become the official one listed on our website email Aidan (aidan@opticdev.com). A preference will be given to teams that intend to maintain their plugin. Plugins will be evaluated and tested against this spec before being listed. 
+Any individual or team is invited to contribute an editor plugin to Optic's ecosystem. Optic's team will provide support during the development process and can be available to help anytime. If you want your plugin to become the official one listed on our website email Aidan (aidan@useoptic.com). A preference will be given to teams that intend to maintain their plugin. Plugins will be evaluated and tested against this spec before being listed. 
 
 Individuals will be listed prominently as Optic contributors and their organizations (optionally) as sponsors. Swag will be mailed :)
 
