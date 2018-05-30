@@ -134,6 +134,15 @@ Test Cases:
 # Testing
 Testing plugins is easiest if you capture the server output. All connections from editors will get logged as will all received and sent events. You can capture the console output by opening the Optic App from the command line. 
 
+Edit the `launchServer.sh` file in `/Applications/Optic.app/Contents/Resources/launchServer.sh` to enable logging. Remove `-Dprod=true`
+```bash
+#!/bin/sh
+
+chmod +x $1
+$1 -jar -Dopticmdbinary="$3" $2
+
+```
+
 Run Optic.app from a terminal session: 
 ```bash
 aidancunniffe$ /Applications/Optic.app/Contents/MacOS/Optic
