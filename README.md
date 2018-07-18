@@ -1,9 +1,6 @@
 # Optic Editor Plugin Spec v1
 Specification for Optic compatible text editor plugins. 
 
-# NEW! Grant Program Announced 
-Want to get paid to build a plugin for your favorite editor? Check out our [open source grant program](https://useoptic.com/grants/)
-
 # tl;dr
 1. Open a websocket connection 
 2. Listen for 1 event
